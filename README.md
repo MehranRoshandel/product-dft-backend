@@ -120,7 +120,7 @@ Authentication for the backend is handled via an API Key. This can be set in the
 ## ArgoCD
 The latest version on main is automatically picked up by ArgoCD and deployed to the DEV environment. See https://catenax-ng.github.io/.
 
-https://dft-api.int.demo.catena-x.net/
+
 
 To see how to deploy an application on 'Hotel Budapest': 
 [How to deploy](https://catenax-ng.github.io/docs/guides/how-to-deploy-an-application)
